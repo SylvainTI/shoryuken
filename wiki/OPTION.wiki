@@ -1,9 +1,0 @@
--h help
-
--i interactive mode
-
--p direct punch
-
--t test mode
-
--l test from list
